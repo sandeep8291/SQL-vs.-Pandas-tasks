@@ -1,0 +1,23 @@
+Level 1: Beginner
+ 1. Retrieve All Rows from a Table
+    Task: Fetch all rows and columns from the employees table.
+ 2. Filter Rows Based on a Condition
+    Task: Find employees whose age is greater than 30.
+ 3. Select Specific Columns
+    Task: Retrieve the name and salary columns from the employees table.
+
+Level 2: Intermediate
+ 4. Group By and Aggregate
+    Task: Find the total salary paid to employees grouped by their department.
+ 5. Sorting Data
+    Task: List all employees ordered by their salary in descending order.
+ 6. Join Two Tables
+    Task: Combine employees and departments tables to include department names.
+
+Level 3: Advanced
+ 7. Using Window Functions (SQL) or Equivalent in Pandas
+    Task: Find the rank of employees based on their salary within each department.
+ 8. Subqueries
+    Task: Find employees whose salary is above the average salary in the company.
+ 9. Aggregates and Having Clause
+    Task: Find departments with an average salary greater than 50,000.
